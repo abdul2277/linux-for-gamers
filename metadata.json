@@ -1,0 +1,6 @@
+{
+  "name": "DevForge Linux - Dev & Gaming Workstation Distro",
+  "description": "Developer and gaming optimized Linux distro featuring pre-installed Docker, Kubernetes, ultra-fast Mold linker, Flathub Open Source App Center, GameDeck Proton gaming hub, GameMode scheduling, and lightweight desktop environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
